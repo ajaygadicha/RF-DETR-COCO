@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the **RF-DETR** object detection model for the COCO dataset.
 
-## 📌 Features
+## Features
 
 - Transformer-based architecture with deformable attention
 - Recurrent feature refinement for high accuracy
