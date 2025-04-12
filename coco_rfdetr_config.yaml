@@ -1,0 +1,9 @@
+backbone: resnet50
+num_classes: 91
+batch_size: 2
+learning_rate: 0.0001
+epochs: 20
+use_deformable_attention: true
+use_recurrent_refinement: true
+dataset: coco2017
+save_path: "rfdetr_coco_weights.pth"
